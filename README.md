@@ -14,4 +14,4 @@ variable for each activity and each subject.
 
 The pipeline of the script is depicted in a Figure 1.
 
-![Pipeline](https://www.dropbox.com/s/glruy4soc2u7fdv/Slide2.png?dl=0)
+![Pipeline](https://www.dropbox.com/s/glruy4soc2u7fdv/Slide2.png)
