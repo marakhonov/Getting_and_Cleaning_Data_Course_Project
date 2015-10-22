@@ -13,3 +13,5 @@ The script called run_analysis.R was written that does the following:
 variable for each activity and each subject.
 
 The pipeline of the script is depicted in a Figure 1.
+
+![Pipeline](https://octodex.github.com/images/yaktocat.png)
